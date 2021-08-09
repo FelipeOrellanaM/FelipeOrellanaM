@@ -1,5 +1,5 @@
 - 👋 Hola! mi nombre es @FelipeOrellanaM, Egresado de Ingeniería Civil Industrial en la Universidad de los Andes, Chile. 
-- 👀 Estoy interesado en el mundo de Machine Learning y AI.
+- 👀 Estoy interesado en el mundo del Machine Learning y AI.
 - 🌱 Actualmente estoy aprendiendo Reinforfcement Learning.
 
 <!---
